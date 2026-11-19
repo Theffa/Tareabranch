@@ -8,4 +8,4 @@ git push -u origin main
 git add .
 git commit -m "Segundo commit en main"
 git add test.cpp
-git commit -m "tercar cambio"
+git commit -m "tercer cambio"
